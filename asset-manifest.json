@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/akkamell/reactportfolio/static/css/main.0a2bd88a.css",
+    "main.js": "/akkamell/reactportfolio/static/js/main.e0be2289.js",
+    "static/media/project1.png": "/akkamell/reactportfolio/static/media/project1.aeec6dd35dcba0fbf0dc.png",
+    "static/media/project2.png": "/akkamell/reactportfolio/static/media/project2.f26132e8995573202afe.png",
+    "static/media/project3.png": "/akkamell/reactportfolio/static/media/project3.4b8ccef57e32dd9d3c74.png",
+    "static/media/Myresumee.rar": "/akkamell/reactportfolio/static/media/Myresumee.0e57c466492a5d654ed7.rar",
+    "static/media/project7.png": "/akkamell/reactportfolio/static/media/project7.5c8f7a60a8e3c4741fac.png",
+    "static/media/me.jpg": "/akkamell/reactportfolio/static/media/me.27e352486d6630fa912b.jpg",
+    "static/media/project5.png": "/akkamell/reactportfolio/static/media/project5.2a7f1b5ddf1d01e1c2e0.png",
+    "static/media/project8.png": "/akkamell/reactportfolio/static/media/project8.cd9208e60b3b03d56052.png",
+    "static/media/project4.png": "/akkamell/reactportfolio/static/media/project4.e9c0971e253a08927e50.png",
+    "static/media/bg-texture.png": "/akkamell/reactportfolio/static/media/bg-texture.94abb40a4df5316497dc.png",
+    "index.html": "/akkamell/reactportfolio/index.html",
+    "main.0a2bd88a.css.map": "/akkamell/reactportfolio/static/css/main.0a2bd88a.css.map",
+    "main.e0be2289.js.map": "/akkamell/reactportfolio/static/js/main.e0be2289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a2bd88a.css",
+    "static/js/main.e0be2289.js"
+  ]
+}
